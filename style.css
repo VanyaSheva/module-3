@@ -17,8 +17,6 @@ nav{
     margin-bottom: 105px;
 }
 ul{
-    display: inline-block;
-    text-align: center;
     height: 10px;
     list-style-type: none;
 }
