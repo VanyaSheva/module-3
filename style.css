@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.wrapper {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header{
+    padding-top: 75px;
+    text-align: center;
+}
+nav{
+    margin-bottom: 105px;
+}
+ul{
+    display: inline-block;
+    text-align: center;
+    height: 10px;
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
+.navigation-item{
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #626262;
+}
+.first{
+    margin-right: 120px;
+    color: #03a9f4;
+}
+.second{
+    margin-right: 105px;
+}
+.third{
+    margin-right: 95px;
+}
+main{
+    width: 900px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.first_content_block{
+    display: inline-block;
+    width: 420px;
+    margin-right: 55px;
+    margin-bottom: 130px;
+}
+
+img{
+    margin-bottom: 32px;
+}
+.under_image_word{
+    color: #b4ad9e;
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+h2{
+    color: #626262;
+    font-family: "Playfair Display";
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 35px;
+}
+.main-text{
+    color: #626262;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.second_content_block{
+    display: inline-block;
+    width: 420px;
+}
+button{
+    width: 164px;
+    height: 60px;
+    border: 1px solid #626262;
+    background-color: white;
+    color: #626262;
+    font-family: "Playfair Display";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 350px;
+    margin-bottom: 43px;
+}
